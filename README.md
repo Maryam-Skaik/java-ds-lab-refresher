@@ -22,7 +22,7 @@ The examples are short, practical, and directly linked to concepts used later in
 
 --- 
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 ```bash
 java-ds-lab-refresher/
