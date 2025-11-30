@@ -1,4 +1,4 @@
-# 🚀 Java Data Structures Lab – Java Refresher Module
+<h1 align="center"> 🚀 Java Data Structures Lab – Java Refresher Module</h1>
 
 This repository contains all code files used in the Java Refresher lecture for the Data Structures Lab.
 The goal of this module is to provide a fast, clear, and practical review of the Java topics required before starting Data Structures.
