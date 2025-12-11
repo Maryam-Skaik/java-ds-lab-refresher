@@ -105,6 +105,41 @@ This refresher ensures a smooth transition into the core Data Structures Lab.
 
 ---
 
+## 🎯 Mermaid UML Diagrams (OOP)
+
+### Class Relationship Example
+
+```mermaid
+classDiagram
+    class Animal {
+        +makeSound()
+    }
+
+    class Dog {
+        +makeSound()
+    }
+
+    class Cat {
+        +makeSound()
+    }
+
+    Animal <|-- Dog
+    Animal <|-- Cat
+```
+
+### Encapsulation Example
+
+```mermaid
+classDiagram
+    class BankAccount {
+        -balance : double
+        +getBalance() double
+        +deposit(amount) void
+    }
+```
+
+---
+
 ## 💻 How to Use
 
 1. Clone the repository:
