@@ -1,17 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package generics;
 
 /**
- *
- * @author Maryam
+ * Demonstrates a simple generic method that works with any data type.
  */
 public class GenericMethod {
+
+    /**
+     * Prints the given item, regardless of its type.
+     *
+     * @param item the value to display
+     */
     public <T> void show(T item) {
         System.out.println("Item: " + item);
-       // return item;
     }
 }
