@@ -1,27 +1,30 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package arrays_strings;
 
 /**
- *
- * @author Maryam
+ * Demonstrates basic array usage and String operations in Java.
+ * This file is part of the Java Refresher module for the DS Lab.
  */
 public class ArrayStringDemo {
-    
+
     public static void main(String[] args) {
+
+        // Static array initialization
         int[] arr = {10, 20, 30, 40};
-        int a [] = new int[5], b = 6;
 
-        System.out.println(arr[2]);
+        // Creating an array with predefined size
+        int[] a = new int[5];
+        int b = 6; // normal variable (not an array)
 
+        // Accessing array element by index
+        System.out.println(arr[2]); // prints 30
+
+        // Enhanced for-loop (for-each) to traverse an array
         for (int num : arr) {
             System.out.println(num);
         }
 
+        // String operations
         String s = "Hello";
-        System.out.println(s.toUpperCase());
+        System.out.println(s.toUpperCase()); // outputs "HELLO"
     }
 }
