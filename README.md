@@ -1,5 +1,8 @@
 <h1 align="center"> 🚀 Java Data Structures Lab – Java Refresher Module</h1>
 
+![Java](https://img.shields.io/badge/Java-17+-blue)
+![Purpose: Education](https://img.shields.io/badge/Purpose-Education-orange)
+
 This repository contains all lecture materials and code examples used in the Java Refresher session for the Data Structures Lab.
 The purpose of this module is to ensure that students have a solid and practical foundation in Java before moving into advanced Data Structures topics such as Linked Lists, Stacks, Queues, Trees, and Recursion.
 
