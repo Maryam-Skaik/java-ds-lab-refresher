@@ -157,14 +157,6 @@ git clone https://github.com/Maryam-Skaik/java-ds-lab-refresher.git
 
 ---
 
-## ▶ Video: Java Refresher for Data Structures Lab
-
-This repository corresponds to the recorded refresher lecture.
-
-[Java Revision for Data Structures – Fast Complete Refresher](https://www.youtube.com/watch?v=Bp8oXAWWWjg)
-
----
-
 ## 🤝 Contribution
 
 Improvements and additions to this refresher module are welcome.
